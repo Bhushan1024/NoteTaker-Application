@@ -9,8 +9,11 @@ The application facilitates the creation of new notes by allowing users to speci
 **Technologies Used:**
 
 1.Java Servlets
+
 2.JavaServer Pages (JSP)
-3.HTML and CSS
+
+3.HTML , CSS and Bootstrap 
+
 4.MySQL
 
 **Project Goals:**
