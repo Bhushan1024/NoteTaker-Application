@@ -7,8 +7,9 @@ The NoteTaker Application is a web-based note-taking system designed to provide 
 The application facilitates the creation of new notes by allowing users to specify a title and content. Additionally, users should be able to view and manage their existing notes effortlessly.
 
 **Technologies Used:**
+
 1.Java Servlets
-2.JavaServer Pages (JSP)	
+2.JavaServer Pages (JSP)
 3.HTML and CSS
 4.MySQL
 
